@@ -1,4 +1,4 @@
-baseURL = "https://jksntn.pw"
+baseURL = "https://jksntn.pw/"
 title = "jksntn Blog"
 theme ="hugo-theme-basic"
 languageCode = "en-us"
