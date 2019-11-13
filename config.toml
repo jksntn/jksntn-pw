@@ -1,0 +1,45 @@
+baseURL = "https://jksntn.pw"
+title = "jksntn Blog"
+theme ="hugo-theme-basic"
+languageCode = "en-us"
+googleAnalytics = "UA-XXXXXXXXX-X"
+enableEmoji = true
+description = "Sebuah blog pribadi buat ngomongin teknologi dan isu terkini. Tulisan bersifat opini."
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[params]
+  titleEmoji = "🖖"
+  # change this!
+  twitter = "jksntn"
+  image = "/image-default.png"
+
+[Permalinks]
+  post = "post/:slug"
+
+[[params.menu]]
+  name = "blog"
+  url = "post/"
+
+[[params.menu]]
+  name = "post series"
+  url = "series/"
+  
+
+[[params.menu]]
+  name = "about"
+  url = "about/"
+  
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
