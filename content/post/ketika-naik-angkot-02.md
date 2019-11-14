@@ -1,0 +1,13 @@
++++
+title = "Ketika Naik Angkot #02"
+date = 2018-07-10T22:21:00Z
+updated = 2018-11-11T12:50:07Z
+tags = ["fiksi"]
+draft = true
+blogimport = true 
+[author]
+	name = "jekicann"
+	uri = "https://www.blogger.com/profile/04171796069233081594"
++++
+
+Ketegangan di antara supir angkot dan preman atau sesama supir angkot sudah wajar terjadi di depan stasiun kota ini. Warga dan masyarakat nampaknya sudah cukup lumrah dengan pemandangan seperti itu, seolah sudah menjadi Standard Operation Procedure pemerintah kota ini.<br /><br />Seperti saat sore itu, angkot yang saya naiki tidak lepas dari perseteruan. Jadi ceritanya angkot yang saya naiki itu sudah hampir penuh, tapi belum sepenuh yang diharapkan supir angkot tersebut. Tapi preman atau calo penumpang nampaknya sudah menyuruh supir supaya lekas berangkat, tak tahan dengan desakan yang bertubi-tubi seperti itu membuat supir melakukan hal yang dibenci penumpang. Jadi ketika lewat angkot sama yang belum penuh dari terminal, sang supir berinisiatif memindahkan seluruh penumpangnya.<br /><br />Tiap detik umpatan dan kekesalan keluar dari mulut penumpang setelah supir angkot meminta seluruh penumpang pindah mobil. Saya? Hanya diam saja, dan ikut turun. Mau mengumpatpun rasanya sudah terlalu lelah.<br /><br />Saat mau naik ke angkot satunya lagi, ternyata sudah kelewat penuh, saya urungkan saja niat untuk naik angkot transferan itu, dan bengong di depan stasiun. Ternyata angkot yang supirnya meminta pindah seluruh penumpangnya masih berada di situ, dengan kosong isinya. Tanpa pikir panjang saya langsung naik dan duduk di depan.<br /><br />Hikmahnya adalah, saya bisa melonjorkan kaki yang kelewat panjang untuk sebagian penduduk kota ini. Dan perjalanan pulang pun dimulai dengan damai...<br /><br />Nampaknya supir angkot itu mengenali saya, dan diajaknya saya mengobrol, dia curhat soal kejadian transferan tadi. Saya pikir preman tadi koalisinya, ternyata cuman partner bisnis.<br /><br />Karena kejadian itu, membayar 5000pun dia mau, tidak keluar komentar ataupun meminta kekurangan ongkos, tapi mungkin sepanjang jalan dia dongkol juga...<br /><br /><br /><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-x1nvcrn7HuA/VhvXzJo5GOI/AAAAAAAAMrE/q0b3gNkTNsg/s1600/angcot.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://1.bp.blogspot.com/-x1nvcrn7HuA/VhvXzJo5GOI/AAAAAAAAMrE/q0b3gNkTNsg/s1600/angcot.jpg" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Supir 02</td></tr></tbody></table><br /><br />

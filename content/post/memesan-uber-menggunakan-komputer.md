@@ -1,0 +1,13 @@
++++
+title = "Memesan Uber Menggunakan Komputer"
+date = 2017-10-01T23:09:00Z
+updated = 2018-11-11T14:30:42Z
+tags = ["windows"]
+draft = true
+blogimport = true 
+[author]
+	name = "jekicann"
+	uri = "https://www.blogger.com/profile/04171796069233081594"
++++
+
+Iya, sebenarnya kamu bisa memesan Uber tanpa menggunakan <i>smartphone</i>. Informasi ini kebetulan saya dapatkan ketika saya membaca di <a href="https://medium.com/without-a-phone/day-7-8c272cc45acb" rel="nofollow" target="_blank">Medium</a>, pengalaman orang-orang yang mengisi hari-harinya tanpa menggunakan <i>smartphone</i>.<br /><br /><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="https://2.bp.blogspot.com/-UJVPPxQfY4s/WdEP67bdQkI/AAAAAAAAdLE/dBg13DiCrwIXXXXxHvW7KC3F9n_8PDd5ACEwYBhgL/s1600/IMG_4733%2Bcopy.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="683" data-original-width="1024" src="https://2.bp.blogspot.com/-UJVPPxQfY4s/WdEP67bdQkI/AAAAAAAAdLE/dBg13DiCrwIXXXXxHvW7KC3F9n_8PDd5ACEwYBhgL/s1600/IMG_4733%2Bcopy.jpg" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://m.uber.com/" rel="nofollow" target="_blank">m.uber.com</a></td></tr></tbody></table>Oiya, cara memesan uber menggunakan komputer cukup gampang, ketik <a href="https://m.uber.com/" rel="nofollow" target="_blank">m.uber.com</a> di <i>browser </i>kamu. Syaratnya adalah, tentu saja memiliki komputer, <i>browser</i>, Internet, dan bisa melacak lokasi. Kalaupun komputer kamu tidak bisa melacak lokasi, tinggal cari saja alamat/lokasi dekat denganmu.<br /><h3>Review</h3><div>Karena ini sebenarnya adalah aplikasi web untuk <i>smartphone</i>, maka ketika dibuka di <i>browser </i>komputer, menjadi lebar banget, dan UI mobilenya membuat agak sedikit awkward apabila dibuka di layar yang besar/lebar.&nbsp;</div><div><br /></div><div>Ketika pertama kali membuka halamannya, maka akan diminta untuk login menggunakan nomor telepon yang terdaftar. Apabila kamu belum pernah mendaftar/sudah mendaftar tapi belum membuat password akun, maka akan masuk kode login melalui sms ke nomor teleponmu.&nbsp;</div><div><br /></div><div>Selanjutnya akan muncul tampilan utama untuk pemesanan dan akan ada popup yang meminta akses lokasimu, pilih iya supaya pemesanan gampang dilakukan.&nbsp;</div><div><br /></div><div>Sayangnya saya belum pernah mencoba memesan melalui halaman m.uber.com ini, jadi saya tidak bisa memberikan ulasan pemesanannya. Tapi berdasarkan artikel yang saya baca, kamu bisa memesan melalui aplikasi web uber ini.&nbsp;</div><div><br /></div><div><br /></div>
