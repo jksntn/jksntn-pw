@@ -6,7 +6,8 @@ tags :
   - telegram
   - android
   - tips
-series: Tips
+  - tools
+series: Tools
 ---
 
 *Cara ini hanya bisa dilakukan di telegram web, desktop, dan Android. Cara ini tidak bisa digunakan di iOS karena botnya dibanned.*
