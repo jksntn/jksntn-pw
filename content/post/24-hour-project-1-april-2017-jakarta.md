@@ -1,13 +1,42 @@
-+++
-title = "24 Hour Project 1 April 2017 Jakarta"
-date = 2017-03-25T14:12:00Z
-updated = 2018-11-11T14:30:43Z
-tags = ["fotografi"]
-draft = true
-blogimport = true 
-[author]
-	name = "jekicann"
-	uri = "https://www.blogger.com/profile/04171796069233081594"
-+++
+---
+title : "24 Hour Project 1 April 2017 Jakarta"
+date : 2017-03-25
+updated : 2018-11-11
+tags : 
+ - fotografi
+series: Fotografi
+---
 
-Buat para penggemar fotografi dokumenter dan s<i>treet photography,</i> maka 24 Hour Project ini bisa menjadi motivasi yang bagus bagi kita untuk membuat sebuah proyek <i>street photography</i> dan juga <i>event</i> ini bisa menjadi ajang pertemuan dengan para fotografer street lainnya, yang biasanya hanya bertemu di Instagram.<br /><br /><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="https://2.bp.blogspot.com/-3255q6Cx5YM/WdEGcvwA3xI/AAAAAAAAdKo/QZKUoF--AQ07A7MkupJHiy5-m1bHp07EQCLcBGAs/s1600/IMG_9990.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="683" data-original-width="1024" src="https://2.bp.blogspot.com/-3255q6Cx5YM/WdEGcvwA3xI/AAAAAAAAdKo/QZKUoF--AQ07A7MkupJHiy5-m1bHp07EQCLcBGAs/s1600/IMG_9990.jpg" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">24 Hour Project</td></tr></tbody></table>24 Hour Project adalah sebuah proyek fotografi tahunan yang awalnya dilakukan oleh Renzo Grande dan Sam Smotherman di tahun 2012, diikuti oleh 65 fotografer di 24 kota dan 20 Negara. Sekarang merupakan tahun ke 5 diselenggarakannya 24 Hour Project ini.<br /><br />Kegiatan ini sendiri tergolong sukses mengajak fotografer dari seluruh dunia, buktinya pada tahun lalu (2016), kegiatan 24hourproject berhasil mengajak 2785 fotografer dari 718 Kota dan 107 Negara.<br /><br />Kegiatan 24 Hour Project ini sendiri <a href="http://www.24hourproject.org/causes" rel="nofollow" target="_blank">bertujuan untuk </a>mendokumentasikan kemanusiaan untuk menciptakan perbedaan dengan melakukan kemitraan dengan LSM Internasional untuk meningkatkan kesadaran dan memperkuat inisiatif mereka.<br /><br />Pada tahun 2017 ini, kegiatan dilakukan serentak pada tanggal 1 April, dan pada tahun ini 24hourproject bermitra dengan <a href="http://www.lesvossolidarity.org/index.php/en/" rel="nofollow" target="_blank">Lesvos Solidarity</a> untuk memberikan bantuan penting yang dibutuhkan oleh para pengungsi. Lebih lengkapnya bisa dilihat <a href="http://www.24hourproject.org/causes" rel="nofollow" target="_blank">di sini.</a><br /><br /><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="https://1.bp.blogspot.com/-1Y8AF8znVbw/WRlUkyMS5rI/AAAAAAAAYOk/5b5336lBG4ItgfsMQTn0gYhU8ByMnNAuACLcB/s1600/tumblr_oncrvwUDVs1u01euvo3_r1_1280.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://1.bp.blogspot.com/-1Y8AF8znVbw/WRlUkyMS5rI/AAAAAAAAYOk/5b5336lBG4ItgfsMQTn0gYhU8ByMnNAuACLcB/s1600/tumblr_oncrvwUDVs1u01euvo3_r1_1280.jpg" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><em style="color: #555555; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 0.9rem; text-align: left;">Infografis 24hourproject.&nbsp;<a href="https://drive.google.com/file/d/0ByfrRVtqWe8WVzF3S0NNWTZLTGM/view" rel="nofollow" target="_blank">lihat edisi PDF</a></em></td></tr></tbody></table><h3>Cara Berpartisipasi</h3>Cara mengikuti kegiatan 24 Hour Project <i>challenge</i> ini adalah dengan mendaftar di halaman <a href="http://www.24hourproject.org/user/register" rel="nofollow" target="_blank">mendaftar 24hourproject.org</a>, setelah mendaftar, kamu diminta untuk mengisi data-data yang diperlukan seperti ketersediaan mendaftar, perangkat yang digunakan, dan data kota tempat memotret.<br /><br />Setelah itu fotografer diminta untuk memotret foto dokumentasi atau <i>street photography</i> dalam 24 jam. Setiap foto diminta untuk diunggah di Instagram dengan menggunakan <i>caption</i> yang sudah ditentukan satu jam sekali pada hari H dimulai pada pukul 00.00 sampai 23.59, atau diunggah keesokan harinya. Finalnya adalah fotografer diminta untuk mengunggah foto terbaiknya di website 24hourproject.com.<br /><br />Mengikuti challange ini tentu berbeda dengan challange atau hunting fotografi lainnya, karena fotografer atau partisipan diminta untuk mengunggah 24 foto berbeda yang diambil dalam 24 jam. Walaupun sebenarnya kamu bisa mengunggah semua foto tersebut keesokan harinya, tapi challangenya adalah memotret 24 foto yang berbeda waktu yang diambil saat hari H.<br /><br />Untuk berhasil memotret selama 24 jam tersebut, dibutuhkan strategi, misalnya kamu tidak perlu membawa gear yang berat dan banyak, cukup membawa 1 kamera 1 lensa, atau kamera yang sudah menggunakan lensa fix, atau cukup memotret menggunakan kamera Smartphone. Selain itu dibutuhkan daya tambahan untuk challange ini, misalnya dengan baterai tambahan atau powerbank.<br /><br />Untuk bisa mengupload seharian juga disarankan fotografer membawa smartphone dengan kartu sim yang bisa 3G atau 4G, atau membawa modem.<br /><br />Selamat memotret 24hourproject pada 1 April 2017!<br /><h3>Bacaan Selanjutnya</h3><ul><li><a href="https://dagoryn.blogspot.com/2017/03/tips-memotret-di-24-hour-project-jakarta.html" target="_blank">Tips Memotret di 24 Hour Project Jakarta</a></li></ul>
+{{< figure src="/img/2017-24h.jpg" >}}
+
+Buat para penggemar fotografi dokumenter dan s_treet photography,_ maka 24 Hour Project ini bisa menjadi motivasi yang bagus bagi kita untuk membuat sebuah proyek _street photography_ dan juga _event_ ini bisa menjadi ajang pertemuan dengan para fotografer street lainnya, yang biasanya hanya bertemu di Instagram.  
+
+## Apa itu 24 Hour Project?
+
+24 Hour Project adalah sebuah proyek fotografi tahunan yang awalnya dilakukan oleh Renzo Grande dan Sam Smotherman di tahun 2012, diikuti oleh 65 fotografer di 24 kota dan 20 Negara. Sekarang merupakan tahun ke 5 diselenggarakannya 24 Hour Project ini.  
+  
+Kegiatan ini sendiri tergolong sukses mengajak fotografer dari seluruh dunia, buktinya pada tahun lalu (2016), kegiatan 24hourproject berhasil mengajak 2785 fotografer dari 718 Kota dan 107 Negara.  
+  
+Kegiatan 24 Hour Project ini sendiri [bertujuan untuk](http://www.24hourproject.org/causes) mendokumentasikan kemanusiaan untuk menciptakan perbedaan dengan melakukan kemitraan dengan LSM Internasional untuk meningkatkan kesadaran dan memperkuat inisiatif mereka.  
+  
+Pada tahun 2017 ini, kegiatan dilakukan serentak pada tanggal 1 April, dan pada tahun ini 24hourproject bermitra dengan [Lesvos Solidarity](http://www.lesvossolidarity.org/index.php/en/) untuk memberikan bantuan penting yang dibutuhkan oleh para pengungsi. Lebih lengkapnya bisa dilihat [di sini.](http://www.24hourproject.org/causes)  
+
+{{< figure src="/img/2017-24h-docs.jpg" caption="Infografis 24hourproject" >}}
+
+## Cara Berpartisipasi
+
+Cara mengikuti kegiatan 24 Hour Project _challenge_ ini adalah dengan mendaftar di halaman [mendaftar 24hourproject.org](http://www.24hourproject.org/user/register), setelah mendaftar, kamu diminta untuk mengisi data-data yang diperlukan seperti ketersediaan mendaftar, perangkat yang digunakan, dan data kota tempat memotret.  
+  
+Setelah itu fotografer diminta untuk memotret foto dokumentasi atau _street photography_ dalam 24 jam. Setiap foto diminta untuk diunggah di Instagram dengan menggunakan _caption_ yang sudah ditentukan satu jam sekali pada hari H dimulai pada pukul 00.00 sampai 23.59, atau diunggah keesokan harinya. Finalnya adalah fotografer diminta untuk mengunggah foto terbaiknya di website 24hourproject.com.  
+  
+Mengikuti challange ini tentu berbeda dengan challange atau hunting fotografi lainnya, karena fotografer atau partisipan diminta untuk mengunggah 24 foto berbeda yang diambil dalam 24 jam. Walaupun sebenarnya kamu bisa mengunggah semua foto tersebut keesokan harinya, tapi challangenya adalah memotret 24 foto yang berbeda waktu yang diambil saat hari H.  
+  
+Untuk berhasil memotret selama 24 jam tersebut, dibutuhkan strategi, misalnya kamu tidak perlu membawa gear yang berat dan banyak, cukup membawa 1 kamera 1 lensa, atau kamera yang sudah menggunakan lensa fix, atau cukup memotret menggunakan kamera Smartphone. Selain itu dibutuhkan daya tambahan untuk challange ini, misalnya dengan baterai tambahan atau powerbank.  
+  
+Untuk bisa mengupload seharian juga disarankan fotografer membawa smartphone dengan kartu sim yang bisa 3G atau 4G, atau membawa modem.  
+  
+Selamat memotret 24hourproject pada 1 April 2017!  
+
+## Bacaan Selanjutnya
+
+- [Tips Memotret di 24 Hour Project Jakarta](https://dagoryn.blogspot.com/2017/03/tips-memotret-di-24-hour-project-jakarta.html)

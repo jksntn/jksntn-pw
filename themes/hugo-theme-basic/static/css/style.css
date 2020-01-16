@@ -42,9 +42,12 @@ article a:hover{
 figure {
   margin-left: 0;
   margin-right: 0;
+  margin-bottom: 25px;
 }
 
 figure figcaption p {
   margin-top: 0;
   font-size: .9em;
+  text-align: center;
+  color: #555;
 }
