@@ -1,16 +1,14 @@
-+++
-title = "Filosopi Kopi (2015)"
-date = 2015-04-12
-tags = ["film"]
-draft = false
-blogimport = true 
-[author]
-	name = "jksntn"
-+++
+---
+title : "Filosopi Kopi (2015)"
+date : 2015-04-12
+tags : 
+ - film
+series: Film
+---
 
 Dulu saya membaca buku filosofi kopi karya Dewi Lestari karena saya merasa seorang penikmat kopi sejati, padahal saya cuman minum Indocafe Coffemix. Kopi cepat saji sejuta umat, kopi ini dari pertama saya tau, desain kemasannya seperti itu terus, engga berubah selama kurang lebih 20 tahun. Walau cuman minuman cepat saji, atau minuman cuman seduh, tapi kopi tersebut sudah membesarkan saya. Ceilah.  
 
-[![](https://2.bp.blogspot.com/-Vssif9yZysU/W4pCRQfBcxI/AAAAAAAAlAQ/lFCONKcAfHM5OeG_iFw3SUYa7VpOtChPQCLcBGAs/s1600/Filosopi%2BKopi.jpg)](https://2.bp.blogspot.com/-Vssif9yZysU/W4pCRQfBcxI/AAAAAAAAlAQ/lFCONKcAfHM5OeG_iFw3SUYa7VpOtChPQCLcBGAs/s1600/Filosopi%2BKopi.jpg)
+![](https://2.bp.blogspot.com/-Vssif9yZysU/W4pCRQfBcxI/AAAAAAAAlAQ/lFCONKcAfHM5OeG_iFw3SUYa7VpOtChPQCLcBGAs/s1600/Filosopi%2BKopi.jpg)
 
 Hanya dengan minum kopi tersebut saya sudah merasakan sebagai penikmat kopi, padahal minum dua gelas kopi racikan yang katanya barista itu saya langsung diare esok harinya. Dan setelah itu saya meyakini saya bukan penikmat kopi. Tapi membaca judul bukunya saja saya sudah tertarik, siapa sangka itu cuman cerpen. Buku filosopi kopi berisi kumpulan-kumpulan cerpen karya Dewi Lestari yang sebelumnya hanya jadi draft saja, hingga akhirnya dicoba untuk diterbitkan. Dan ternyata sukses (katanya).  
   

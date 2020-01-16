@@ -4,7 +4,7 @@ title : "Netflix Original: Living With Yourself Season 1"
 tags:
   - review
   - movie
-series: Movie
+series: Film
 ---
 
 Bagaimana rasanya kalau kamu tiba-tiba harus hidup dengan dirimu sendiri dengan versi dirimu yang lebih baik? Mungkin itu yang akan dijelaskan film yang dibintangi Paul Rudd ini dalam serial Living With Yourself Season 1.
