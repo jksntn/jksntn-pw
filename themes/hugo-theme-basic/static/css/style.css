@@ -51,3 +51,8 @@ figure figcaption p {
   text-align: center;
   color: #555;
 }
+
+blockquote p {
+    color: #555;
+    font-size: larger;
+}

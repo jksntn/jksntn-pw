@@ -14,6 +14,7 @@ Ketertarikan utama saya adalah pada teknologi, smartphone, gadget lainnya, fotog
 - [Games](/series/games/)
 - [Tools](/series/tools/)
 - [Linux](/series/linux/)
+- [Self](/series/self/) - Cerita pengalaman pribadi atau opini yang engga ada kaitan dengan topik lainnya...
 
 Untuk hal random lainnya biasanya saya update di Twitter saya: [@jksntn](https://twitter.com/jksntn/). atau foto-foto di Instagram: [@jksntn](https://www.instagram.com/jksntn/).
 

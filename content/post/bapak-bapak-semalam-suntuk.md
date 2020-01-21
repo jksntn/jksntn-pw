@@ -1,13 +1,9 @@
-+++
-title = "Bapak-Bapak Semalam Suntuk"
-date = 2013-10-06
-updated = 2018-11-11
-tags = ["mikir"]
-draft = false
-blogimport = true 
-[author]
-	name = "jksntn"
-+++
+---
+title : "Bapak-Bapak Semalam Suntuk"
+date : 2013-10-06
+series : self
+
+---
 
 Saya sudah genap tiga bulan tinggal di Jakarta, menikmati dan merasakan peradaban terdepan di Nusantara. Jakarta sebagai ibukota bolehlah mendapat predikat sebagai metropolitan atau namanya kota carut marut sekali, ya kacau dalam segala bidang, ekonomi yang tidak merata, tingkat kriminal yang tinggi, kebersihan yang langka sekali, penduduk yang padat bin njelimet dan kehidupan sosial yang rendah. Semua atribut itu dimiliki kota Jakarta.  
   

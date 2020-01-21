@@ -21,7 +21,7 @@ description = "Sebuah blog pribadi buat ngomongin teknologi dan isu terkini. Tul
   post = "post/:slug"
 
 [[params.menu]]
-  name = "blog"
+  name = "post"
   url = "post/"
 
 [[params.menu]]
