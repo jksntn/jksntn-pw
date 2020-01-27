@@ -9,8 +9,11 @@ Nama saya Jaka Santana dan saya seorang Social Media Specialist di [Sync.id](htt
 
 Ketertarikan utama saya adalah pada teknologi, smartphone, gadget lainnya, fotografi, film dan game. Di personal web ini saya akan banyak ngobrolin beberapa topik:
 
-- [Fotografi](/series/fotografi/)
-- [Film](/series/film/)
+- [Photography](/series/photography/)
+- [Security](/series/security/)
+- [Windows](/series/windows/)
+- [Movies](/series/movies/)
+- [Gadget](/series/gadget/)
 - [Games](/series/games/)
 - [Tools](/series/tools/)
 - [Linux](/series/linux/)

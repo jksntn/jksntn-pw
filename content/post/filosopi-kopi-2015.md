@@ -3,7 +3,7 @@ title : "Filosopi Kopi (2015)"
 date : 2015-04-12
 tags : 
  - film
-series: Film
+series: Movies
 ---
 
 Dulu saya membaca buku filosofi kopi karya Dewi Lestari karena saya merasa seorang penikmat kopi sejati, padahal saya cuman minum Indocafe Coffemix. Kopi cepat saji sejuta umat, kopi ini dari pertama saya tau, desain kemasannya seperti itu terus, engga berubah selama kurang lebih 20 tahun. Walau cuman minuman cepat saji, atau minuman cuman seduh, tapi kopi tersebut sudah membesarkan saya. Ceilah.  

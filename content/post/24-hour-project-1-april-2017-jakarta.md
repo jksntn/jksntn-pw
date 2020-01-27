@@ -4,7 +4,7 @@ date : 2017-03-25
 updated : 2018-11-11
 tags : 
  - fotografi
-series: Fotografi
+series: Photography
 ---
 
 {{< figure src="/img/2017-24h.jpg" >}}

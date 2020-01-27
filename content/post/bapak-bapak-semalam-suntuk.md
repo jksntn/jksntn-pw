@@ -1,7 +1,7 @@
 ---
 title : "Bapak-Bapak Semalam Suntuk"
 date : 2013-10-06
-series : self
+series : Self
 
 ---
 

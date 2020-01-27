@@ -3,7 +3,7 @@ title : "24 Hour Project Photo: Street Tattoo"
 date : 2017-08-27
 tags : 
  - fotografi
-series: Fotografi
+series: Photography
 ---
 
 {{< figure src="/img/IMG_9929.jpg/" caption="Street Tattoo © Jaka" >}}

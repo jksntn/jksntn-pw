@@ -4,7 +4,7 @@ date: 2016-05-01
 tags: 
  - fotografi
  - self
-series: Fotografi
+series: Photography
 ---
 
 Bicara mengenai fotografi, saya mulai serius dengan fotografi adalah saat saya menggunakan kamera SLR Nikon FM10 waktu kuliah dulu kala, saat itu saya menghabiskan 2 exposure film karena satu roll dibagi beberapa buat anak-anak yang sedang mengikuti workshop fotografi dasar. Pada akhir-akhir masa kuliah baru saya bisa mencicipi namanya DSLR, saya meminjam Canon 1000D milik temen saya saat sedang trip panjang ke nikahan teman di Indramayu.
