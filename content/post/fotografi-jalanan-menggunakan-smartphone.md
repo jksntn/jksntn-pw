@@ -1,19 +1,15 @@
-+++
-title = "Fotografi Jalanan Menggunakan Smartphone"
-date = 2016-08-17T09:26:00Z
-updated = 2018-11-11T14:30:43Z
-tags = ["fotografi"]
-draft = false
-blogimport = true 
-[author]
-	name = "jekicann"
-	uri = "https://www.blogger.com/profile/04171796069233081594"
-+++
+---
+title : Fotografi Jalanan Menggunakan Smartphone
+date : 2016-08-17
+tags : 
+  - fotografi
+series: Photography
+---
 
 Pada awal tahun 2016 ini saya sudah meniatkan untuk fokus memotret menggunakan smartphone seperti di tulisan saya yang berjudul Mobile Photography di Tahun 2016. Hasilnya? Menyenangkan, memotret bagi saya tetaplah menyenangkan apapun medianya. Beberapa hasil foto yang saya ambil menggunakan smartphone bisa dilihat di instagram saya.  
   
 
-[![](https://1.bp.blogspot.com/--Ab_TXEa5vU/WajJx0Bu_lI/AAAAAAAAb7s/cPHBPCjlJGARQAK848ris1PFnJRJSo8FACLcBGAs/s1600/tumblr_on77lvJOck1u01euvo1_1280.jpg)](https://1.bp.blogspot.com/--Ab_TXEa5vU/WajJx0Bu_lI/AAAAAAAAb7s/cPHBPCjlJGARQAK848ris1PFnJRJSo8FACLcBGAs/s1600/tumblr_on77lvJOck1u01euvo1_1280.jpg)
+![](https://1.bp.blogspot.com/--Ab_TXEa5vU/WajJx0Bu_lI/AAAAAAAAb7s/cPHBPCjlJGARQAK848ris1PFnJRJSo8FACLcBGAs/s1600/tumblr_on77lvJOck1u01euvo1_1280.jpg)
 
 Fearless!
 
@@ -38,7 +34,7 @@ Sebagai cara untuk mengatasi baterai yang lemah adalah, saya menggunakan airplan
 
 #### 2. Menjadi Perhatian Banyak Orang
 
-[![](https://4.bp.blogspot.com/-YiPMgtuJfnk/WajJ-KUaisI/AAAAAAAAb7w/A-FHrrPc_LID196Nd_BycmYyI3PCaB82gCLcBGAs/s1600/tumblr_on77nu18Aw1u01euvo1_1280.jpg)](https://4.bp.blogspot.com/-YiPMgtuJfnk/WajJ-KUaisI/AAAAAAAAb7w/A-FHrrPc_LID196Nd_BycmYyI3PCaB82gCLcBGAs/s1600/tumblr_on77nu18Aw1u01euvo1_1280.jpg)
+![](https://4.bp.blogspot.com/-YiPMgtuJfnk/WajJ-KUaisI/AAAAAAAAb7w/A-FHrrPc_LID196Nd_BycmYyI3PCaB82gCLcBGAs/s1600/tumblr_on77nu18Aw1u01euvo1_1280.jpg)
 
 Tidur di KRL
 
@@ -59,7 +55,7 @@ Saya pikir itu beberapa kesulitan memotret menggunakan smartphone yang menurut s
 
 ### Keuntungan Memotret Menggunakan Smartphone
 
-[![](https://1.bp.blogspot.com/-m4YcS9v5OnM/WajKPHbd7OI/AAAAAAAAb70/9CSdT8WZvqAvWqBlJ-YyVEHUN9IRWrJwgCLcBGAs/s1600/tumblr_on77bnGVth1u01euvo1_1280.jpg)](https://1.bp.blogspot.com/-m4YcS9v5OnM/WajKPHbd7OI/AAAAAAAAb70/9CSdT8WZvqAvWqBlJ-YyVEHUN9IRWrJwgCLcBGAs/s1600/tumblr_on77bnGVth1u01euvo1_1280.jpg)
+![](https://1.bp.blogspot.com/-m4YcS9v5OnM/WajKPHbd7OI/AAAAAAAAb70/9CSdT8WZvqAvWqBlJ-YyVEHUN9IRWrJwgCLcBGAs/s1600/tumblr_on77bnGVth1u01euvo1_1280.jpg)
 
 Nungguin Istri
 

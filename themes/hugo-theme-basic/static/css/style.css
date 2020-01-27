@@ -52,7 +52,10 @@ figure figcaption p {
   color: #555;
 }
 
-blockquote p {
-    color: #555;
-    font-size: larger;
+blockquote {
+  margin-left: 0;
+  padding-left: 1em;
+  font-style: italic;
+  font-size: larger;
+  color: #555;
 }
