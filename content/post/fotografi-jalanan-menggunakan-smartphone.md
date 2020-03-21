@@ -8,15 +8,11 @@ series: Photography
 
 Pada awal tahun 2016 ini saya sudah meniatkan untuk fokus memotret menggunakan smartphone seperti di tulisan saya yang berjudul Mobile Photography di Tahun 2016. Hasilnya? Menyenangkan, memotret bagi saya tetaplah menyenangkan apapun medianya. Beberapa hasil foto yang saya ambil menggunakan smartphone bisa dilihat di instagram saya.  
   
-
-![](https://1.bp.blogspot.com/--Ab_TXEa5vU/WajJx0Bu_lI/AAAAAAAAb7s/cPHBPCjlJGARQAK848ris1PFnJRJSo8FACLcBGAs/s1600/tumblr_on77lvJOck1u01euvo1_1280.jpg)
-
-Fearless!
-
-Selama memotret menggunakan smartphone itulah saya merasakan ada hal-hal yang menjadi hambatan dan ada keuntungan tersendiri memotret menggunakan smartphone. Tapi supaya kamu yang baru terjun di mobile photography lebih paham mengenai kesulitannya, maka saya akan jelaskan terlebih dahulu kesulitan-kesulitan saat memotret menggunakan smartphone.  
-  
+{{< figure src="/img/tumblr_on77lvJOck1u01euvo1_1280.jpg" caption="Fearless!" >}}
 
 > Hal terpenting yang menjadi keuntungan memotret menggunakan smartphone adalah saya jadi bisa lebih menikmati perjalanan.
+
+Selama memotret menggunakan smartphone itulah saya merasakan ada hal-hal yang menjadi hambatan dan ada keuntungan tersendiri memotret menggunakan smartphone. Tapi supaya kamu yang baru terjun di mobile photography lebih paham mengenai kesulitannya, maka saya akan jelaskan terlebih dahulu kesulitan-kesulitan saat memotret menggunakan smartphone.  
 
 ### Kesulitan Mobile Photography
 
@@ -34,9 +30,7 @@ Sebagai cara untuk mengatasi baterai yang lemah adalah, saya menggunakan airplan
 
 #### 2. Menjadi Perhatian Banyak Orang
 
-![](https://4.bp.blogspot.com/-YiPMgtuJfnk/WajJ-KUaisI/AAAAAAAAb7w/A-FHrrPc_LID196Nd_BycmYyI3PCaB82gCLcBGAs/s1600/tumblr_on77nu18Aw1u01euvo1_1280.jpg)
-
-Tidur di KRL
+{{< figure src="/img/tumblr_on77nu18Aw1u01euvo1_1280.jpg" caption="Tidur di KRL" >}}
 
 Siapa bilang memotret menggunakan smartphone kamu jadi seperti ninja? Bisa memotret orang dengan sesuka hatinya tanpa terlihat. Saya pikir masih banyak orang yang tidak nyaman kalau dipotret di tempat umum, apalagi dengan menggunakan kamera smartphone (Kecuali turis, tentunya).
 
@@ -55,9 +49,7 @@ Saya pikir itu beberapa kesulitan memotret menggunakan smartphone yang menurut s
 
 ### Keuntungan Memotret Menggunakan Smartphone
 
-![](https://1.bp.blogspot.com/-m4YcS9v5OnM/WajKPHbd7OI/AAAAAAAAb70/9CSdT8WZvqAvWqBlJ-YyVEHUN9IRWrJwgCLcBGAs/s1600/tumblr_on77bnGVth1u01euvo1_1280.jpg)
-
-Nungguin Istri
+{{< figure src="/img/tumblr_on77bnGVth1u01euvo1_1280.jpg" caption="Nungguin Istri" >}}
 
 Hal yang paling menyenangkan ketika melakukan perjalanan atau liburan adalah mengabadikan moment perjalanan dan liburan kita, dengan mengurangi beban bawaan saya, saya jadi lebih bisa menikmati liburan itu sendiri, dan tidak ‘kelelahan’ karena mengalungkan kamera DSLR yang lumayan berat, bahkan karena butuh pengaman, tambahan tas kamera justru kadang mengganggu saya. Itulah untungnya membawa kamera kecil atau kamera smartphone.
 

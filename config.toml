@@ -27,7 +27,10 @@ description = "Sebuah blog pribadi buat ngomongin teknologi dan isu terkini. Tul
 [[params.menu]]
   name = "post series"
   url = "series/"
-  
+
+[[params.menu]]
+  name = "project"
+  url = "project/"
 
 [[params.menu]]
   name = "about"

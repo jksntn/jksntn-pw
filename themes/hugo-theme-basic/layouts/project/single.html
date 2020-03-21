@@ -16,6 +16,25 @@
   <section id="main" class="mt5">
     <h1 itemprop="name" id="title">{{ .Title }}</h1>
 
+    <div class="cf">
+    <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+      <dd class="f6 fw4 ml0">Project Category</dd>
+      <dd class="f5 fw6 ml0">{{ .Params.project_category }}</dd>
+    </dl>
+    </div>
+    <div class="cf">
+    <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+      <dd class="f6 fw4 ml0">Project URL</dd>
+      <dd class="f5 fw6 ml0"><a href="{{ .Params.project_url }}" target="_blank" class="b dib black no-underline link hover-gray">{{ .Params.project_url }}</a></dd>
+    </dl>
+    </div>
+    <div class="cf">
+    <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+      <dd class="f6 fw4 ml0">Project Year</dd>
+      <dd class="f5 fw6 ml0">{{ .Params.project_year }}</dd>
+    </dl>
+    </div>
+
     <article itemprop="articleBody" id="content" class="w-90 lh-copy">
       {{ .Content }}
     </article>

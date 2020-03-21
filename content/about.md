@@ -5,7 +5,7 @@ date : 2014-04-09
 
 Hai,
 
-Nama saya Jaka Santana dan saya seorang Social Media Specialist di [Sync.id](https://sync.id/).
+Nama saya Jaka Santana dan saya seorang content Creator.
 
 Ketertarikan utama saya adalah pada teknologi, smartphone, gadget lainnya, fotografi, film dan game. Di personal web ini saya akan banyak ngobrolin beberapa topik:
 
@@ -17,6 +17,7 @@ Ketertarikan utama saya adalah pada teknologi, smartphone, gadget lainnya, fotog
 - [Games](/series/games/)
 - [Tools](/series/tools/)
 - [Linux](/series/linux/)
+- [Books](/series/books/)
 - [Self](/series/self/) - Cerita pengalaman pribadi atau opini yang engga ada kaitan dengan topik lainnya...
 
 Untuk hal random lainnya biasanya saya update di Twitter saya: [@jksntn](https://twitter.com/jksntn/). atau foto-foto di Instagram: [@jksntn](https://www.instagram.com/jksntn/).
