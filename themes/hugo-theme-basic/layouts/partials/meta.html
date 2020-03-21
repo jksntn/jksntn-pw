@@ -38,7 +38,6 @@
 {{ end }}
 
 {{if .Site.Params.twitter }}
-<meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@{{ .Site.Params.twitter }}" />
 <meta name="twitter:creator" content="@{{ .Site.Params.twitter }}" />
 <meta
@@ -51,8 +50,10 @@
 />
 {{ with .Params.images }}
 <meta name="twitter:image:src"  content="{{ . | absURL }}" />
+<meta name="twitter:card" content="summary_large_image" />
 {{ else -}}
 <meta pname="twitter:image:src"  content="{{ .Site.Params.image | absURL }}" />
+<meta name="twitter:card" content="summary" />
 {{ end }}
 <meta name="twitter:domain" content="{{ .Permalink }}" />
 {{ end }}
