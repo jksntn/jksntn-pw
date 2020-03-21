@@ -1,6 +1,6 @@
 ---
 title : "Memindahkan eBook DRM ke eBook Reader"
-date : 2020-03-21
+date : 2020-03-20
 images: "/img/memindahkan-ebook-drm.png"
 tags : 
  - ebook
