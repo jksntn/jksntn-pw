@@ -29,14 +29,13 @@ description = "Sebuah blog pribadi buat ngomongin teknologi dan isu terkini. Tul
   url = "series/"
 
 [[params.menu]]
-  name = "project"
-  url = "project/"
+  # name = "project"
+  # url = "project/"
 
 [[params.menu]]
   name = "about"
   url = "about/"
   
-
 [privacy]
   [privacy.googleAnalytics]
     anonymizeIP = true
