@@ -4,7 +4,6 @@ theme ="hugo-theme-basic"
 languageCode = "en-us"
 googleAnalytics = "UA-XXXXXXXXX-X"
 enableEmoji = true
-description = "Sebuah blog pribadi buat ngomongin teknologi dan isu terkini. Tulisan bersifat opini."
 
 [taxonomies]
   category = "categories"
@@ -16,6 +15,7 @@ description = "Sebuah blog pribadi buat ngomongin teknologi dan isu terkini. Tul
   # change this!
   twitter = "jksntn"
   image = "/image-default.png"
+  description = "Sebuah blog pribadi buat ngomongin teknologi dan isu terkini. Tulisan bersifat opini."
 
 [Permalinks]
   post = "post/:slug"

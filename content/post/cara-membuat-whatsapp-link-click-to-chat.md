@@ -11,6 +11,7 @@ blogimport = true
 +++
 
 [![](https://3.bp.blogspot.com/-dA21ooza_zM/XBHYxCQkpxI/AAAAAAAAnmg/ipvd7wvQeRkvqtZgj312NwmUVtxgXwZcACLcBGAs/s1600/chrome_2018-12-13_10-57-27.png)](https://3.bp.blogspot.com/-dA21ooza_zM/XBHYxCQkpxI/AAAAAAAAnmg/ipvd7wvQeRkvqtZgj312NwmUVtxgXwZcACLcBGAs/s1600/chrome_2018-12-13_10-57-27.png)
+👆 Tampilan Click To Chat
 
 Pernahkan terlintas di benakmu bagaimana cara membuat nomor whatsapp bisnis atau usaha kita mudah diakses orang tanpa kita harus memberitahukan nomor whatsapp kita? Supaya calon pelanggan tidak susah-susah menyimpan nomor whatsapp kita ke contact mereka? Caranya sangat mudah, yaitu menggunakan Whatsapp link.  
   

@@ -3,7 +3,7 @@ title : "24 Hour Project 1 April 2017 Jakarta"
 date : 2017-03-25
 updated : 2018-11-11
 tags : 
- - fotografi
+ - 24hourproject
 series: Photography
 ---
 
