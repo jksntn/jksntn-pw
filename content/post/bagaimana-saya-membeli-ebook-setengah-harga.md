@@ -22,10 +22,10 @@ Buat yang merasa vpn mahal (dan emang mahal 🙈), kamu bisa membeli vpn [namech
 
 Store seperti [Kobo.com](https://kobo.com), tidak perlu menggunakan VPN untuk pindah store, namun cukup pindah store saja. Kalau saya sih pindah store ke India. Harganya beda banget sama store yang global!
 
-![](/img/ebook-setengah-harga-001.png)
+![](/img/ebook-setengah-harga-001.jpg)
 👆 Ini harga globalnya di Kobo, kalo dirupiahin sekitar Rp.216.000 an. Mahal beut. Mending beli buku fisiknya aja!
 
-![](/img/ebook-setengah-harga-002.png)
+![](/img/ebook-setengah-harga-002.jpg)
 👆 Ini Harga di Kobo Store India, kalo dirupiahin, harganya jadi Rp.70.000 an 🙈. Gila ya?
 
 Untuk Google Play Store, kamu harus menggunakan vpn untuk pindah regional. Dalam hal ini saya pindah ke regional India. Setelah itu pada menu play store, akan ada pilihan untuk pindah negara. Setelah itu akan diminta konfirmasi pembayaran, usahakan ada saldo di Jeniusnya ya, karena akan terpotong beberapa rupiah saja. Selanjutnya semua harga akan berubah ke India. 
@@ -36,10 +36,10 @@ Apa kerugian dari pindah Regional store? Akan banyak ebook atau aplikasi lokal y
 
 Harga ebook di google play ternyata lebih murah ketimbang harga di Kobo.com. 🙈🙈🙈
 
-![](/img/ebook-setengah-harga-003.png)
+![](/img/ebook-setengah-harga-003.jpg)
 👆 Harga di store Indonesia, mending beli versi Buku Fisiknya aja.
 
-![](/img/ebook-setengah-harga-004.png)
+![](/img/ebook-setengah-harga-004.jpg)
 👆 Harga di Google Store India, cuman Rp27rb!!! 🙈
 
 Mungkin yang jadi pertanyaan selanjutnya adalah. Kamu pikir buku-buku tersebut hanya bisa dibaca di apps masing-masing, tidak bisa dipindahkan ke ebook reader. 
